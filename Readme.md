@@ -1,15 +1,13 @@
 #Authentication page
 🔐 Basic Login/Signup Page
 
-This is a simple web-based Login and Signup page built using HTML, CSS, and JavaScript. It allows users to create an account and log in using basic frontend logic with browser localStorage. No backend or database is involved.
+This is a simple web-based Login and Signup page built using HTML, CSS, and JavaScript. It allows users to create an account and log in using basic frontend logic. No backend or database is involved.
 
 🌐 Features
 
-✅ User Signup (stores credentials in localStorage)
+✅ User Signup (stores credentials)
 
-✅ User Login (validates credentials from localStorage)
-
-✅ Form validation (empty fields, matching passwords)
+✅ User Login (validates credentials)
 
 ✅ Simple and clean UI
 
