@@ -32,7 +32,7 @@ login-signup-page/ │
 
 3.JavaScript checks if:
 
-4.All fields are filled.
+All fields are filled.
 
 ➤ Login
 
@@ -56,11 +56,11 @@ This is only for learning/demo purposes. For real applications, use backend auth
 
 🧪 How to Run
 
-Download or clone this repo.
+1.Download or clone this repo.
 
-Open index.html in your browser.
+2.Open index.html in your browser.
 
-Try signing up and logging in.
+3.Try signing up and logging in.
 
 ✨ Screenshots
 
