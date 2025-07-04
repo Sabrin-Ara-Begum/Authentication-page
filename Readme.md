@@ -63,6 +63,7 @@ Open index.html in your browser.
 Try signing up and logging in.
 
 ✨ Screenshots
+![Uploading Screenshot 2025-07-04 at 11.31.02 AM.png…]()
 
 
 📚 Technologies Used
