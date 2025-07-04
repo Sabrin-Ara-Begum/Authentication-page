@@ -17,7 +17,10 @@ This is a simple web-based Login and Signup page built using HTML, CSS, and Java
 
 📁 Project Structure
 
-login-signup-page/ │ ├── index.html # Main HTML page ├── style.css # Styling for the forms and layout └── script.js # JS for handling logic (signup/login)
+login-signup-page/ │ 
+├── index.html # Main HTML page 
+├── style.css # Styling for the forms and layout 
+└── script.js # JS for handling logic (signup/login)
 
 🚀 How It Works
 
