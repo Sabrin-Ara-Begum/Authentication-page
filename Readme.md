@@ -32,7 +32,7 @@ login-signup-page/ │
 
 3.JavaScript checks if:
 
-4.All fields are filled.
+All fields are filled.
 
 ➤ Login
 
