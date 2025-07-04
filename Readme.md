@@ -63,7 +63,8 @@ Open index.html in your browser.
 Try signing up and logging in.
 
 ✨ Screenshots
-![Uploading Screenshot 2025-07-04 at 11.31.02 AM.png…]()
+<img width="1435" alt="Screenshot 2025-07-04 at 11 31 02 AM" src="https://github.com/user-attachments/assets/94c7d04e-63c0-4232-8fda-ecfb994c16eb" />
+
 
 
 📚 Technologies Used
