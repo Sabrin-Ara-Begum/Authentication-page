@@ -1,7 +1,7 @@
 const express = require("express");
 const mongoose = require("mongoose");
 const cors = require("cors");
-const path = require("path");       // ⭐ Added to serve frontend
+const path = require("path");
 require("dotenv").config();
 
 const app = express();
@@ -19,15 +19,13 @@ mongoose.connect(process.env.MONGO_URI)
   .catch(err => console.log(err));
 
 // SERVE FRONTEND
-app.use(express.static(path.join(__dirname, ".."))); // "../" because backend is inside /backend
+app.use(express.static(path.join(__dirname, ".."))); // serve frontend from root
 
-// Send index.html for all unknown routes (so React/JS routing works too)
 app.get("*", (req, res) => {
   res.sendFile(path.join(__dirname, "..", "index.html"));
 });
 
 // SERVER
 const PORT = process.env.PORT || 4000;
-app.listen(PORT, () => {
-  console.log("Server running on port", PORT);
-});
+app.listen(PORT, () => console.log(`Server running on port ${PORT}`));
+
